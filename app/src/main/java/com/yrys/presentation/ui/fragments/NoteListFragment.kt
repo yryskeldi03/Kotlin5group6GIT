@@ -28,6 +28,7 @@ class NoteListFragment : BaseFragment(R.layout.fragment_note_list) {
     private val viewModel by viewModels<NoteListViewModel>()
     private val binding by viewBinding(FragmentNoteListBinding::bind)
     private val a = 0
+    private val s = 2
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
