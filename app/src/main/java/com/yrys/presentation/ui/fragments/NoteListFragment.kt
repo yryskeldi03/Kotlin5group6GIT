@@ -25,9 +25,11 @@ class NoteListFragment : BaseFragment(R.layout.fragment_note_list) {
             this::onItemClick
         )
     }
-    private val i =0
+    private val second_branch_val = 0
     private val viewModel by viewModels<NoteListViewModel>()
     private val binding by viewBinding(FragmentNoteListBinding::bind)
+    private val second_second = 0
+    private val i = 0
     private val third_branch = 0
     private val second_branch = 0
     private val s = 2
