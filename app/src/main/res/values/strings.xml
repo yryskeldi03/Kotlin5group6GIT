@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Kotlin 5, group 06, lesson 6, multimodule</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="add_note">Add note</string>
+    <string name="save">Save</string>
+</resources>
